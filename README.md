@@ -9,11 +9,11 @@ During this challenge you will build an ultra tiny version of an LMS. We use Rea
 
 It consists of a 3 screens flow.. The first is where the user should input their name/username:
 
-// image 1
+![Diagram containing a username input.](https://github.com/mobiliza/ultra-tiny-lms-challenge/blob/main/assets/set-username-mockup.jpg?raw=true)
 
 After submitting, she must answer the next question:
 
-// image 2
+![Diagram a multiple choice question.](https://github.com/mobiliza/ultra-tiny-lms-challenge/blob/main/assets/set-username-mockup.jpg?raw=true)
 
 After submitting again, she should gain a score following this rules:
 
