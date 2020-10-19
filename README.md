@@ -34,4 +34,4 @@ After a successful submission we will invite you to a online chat in order to ta
 
 ## Submission
 
-In order to submit this challenge, please fork it as a private repository, push your implementation and share it with us (pedromuller). We ask you not to make it public before April 19/2021, which is exactly 6 months after this challenge was created. After that you should definitely make it public and add it to your portfolio.
+In order to submit this challenge, please create a private repository and share it with us (pedromuller). We ask you not to make it public before April 19/2021, which is exactly 6 months after this challenge was created. After that you should definitely make it public and add it to your portfolio.
