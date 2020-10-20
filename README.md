@@ -32,6 +32,8 @@ Since this is a Full-Stack challenge, we will be examinating the logic as well a
 
 We expect a fully responsive solution and we want to evaluate your styling skills (CSS, styled-components, whatever) so if you're going to use a CSS library, customize it a bit.
 
+It's important that we can run your application so please provide a Readme.md with instruction on how to run and/or deploy it for free somewhere (Bonus points for that).
+
 After a successful submission we will invite you to a online chat in order to talk about your design choices and how you would develop specific new features on top of what you build. Please be ready.
 
 ## Submission
