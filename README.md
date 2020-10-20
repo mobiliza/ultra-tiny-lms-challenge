@@ -3,7 +3,7 @@ This is a technical challenge for hiring DEVs at Mobiliza.
 
 First, some context: LMS stands for Learning Management System and it is basically a set of functionality to help Training Specialists (our case) and Teachers to provide curated content and track students interactions with them.
 
-During this challenge you will build an ultra tiny version of an LMS. We use React, Node and Postgres here, but you can use whatever technology you want.
+During this challenge you will build an ultra tiny version of an LMS. We use React, Node, Postgres and Docker here, but you can use whatever technology you want.
 
 ## The app
 
@@ -32,7 +32,7 @@ Since this is a Full-Stack challenge, we will be examinating the logic as well a
 
 We expect a fully responsive solution and we want to evaluate your styling skills (CSS, styled-components, whatever) so if you're going to use a CSS library, customize it a bit.
 
-It's important that we can run your application so please provide a Readme.md with instruction on how to run and/or deploy it for free somewhere (Bonus points for that).
+It's important that we can run your application so please provide a `readme.md` with instructions on how to run it and/or deploy it for free somewhere you know (Bonus points for that).
 
 After a successful submission we will invite you to a online chat in order to talk about your design choices and how you would develop specific new features on top of what you build. Please be ready.
 
