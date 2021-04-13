@@ -38,4 +38,4 @@ After a successful submission we will invite you to a online chat in order to ta
 
 ## Submission
 
-In order to submit this challenge, please create a private repository and share it with us (pedromuller, luckasfrigo). We ask you not to make it public before June 2021. After that you should definitely make it public and add it to your portfolio.
+In order to submit this challenge, please create a private repository and share it with us (pedromuller, luckasfrigo, felipeferreiraads, KZTN, betofigueiredo, francardoso, Brusifer). We ask you not to make it public before June 2021. After that you should definitely make it public and add it to your portfolio.
