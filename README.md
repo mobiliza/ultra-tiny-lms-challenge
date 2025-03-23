@@ -32,10 +32,10 @@ Since this is a Full-Stack challenge, we will be examinating the logic as well a
 
 We expect a fully responsive solution and we want to evaluate your styling skills (CSS, styled-components, whatever) so if you're going to use a CSS library, customize it a bit.
 
-It's important that we can run your application so please provide a `readme.md` with instructions on how to run it and/or deploy it for free somewhere you know (Bonus points for that).
+It's important that we can run your application with instructions on how to run it and/or deploy it for free somewhere you know.
 
 After a successful submission we will invite you to a online chat in order to talk about your design choices and how you would develop specific new features on top of what you build. Please be ready.
 
 ## Submission
 
-In order to submit this challenge, please create a private repository and share it with us (pedromuller, luckasfrigo, felipeferreiraads, KZTN, betofigueiredo, francardoso, Brusifer). We ask you not to make it public before June 2021. After that you should definitely make it public and add it to your portfolio.
+In order to submit this challenge, please create a private repository and share it with us (KZTN, betofigueiredo, tejota and andressafgd). We ask you not to make it public before April 2025. After that you should definitely make it public and add it to your portfolio.
