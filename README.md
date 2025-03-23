@@ -3,7 +3,7 @@ This is a technical challenge for hiring DEVs at Mobiliza.
 
 First, some context: LMS stands for Learning Management System and it is basically a set of functionality to help Training Specialists (our case) and Teachers to provide curated content and track students interactions with them.
 
-During this challenge you will build an ultra tiny version of an LMS. We use React, Node, Postgres and Docker here, but you can use whatever technology you want as long as you're aware that the stack can become a tiebreaker on later steps of the process.
+During this challenge, you will build an ultra tiny version of an LMS (Learning Management System). Here at Mobiliza, we use React, Node, Postgres, and Docker — and we’d like you to use this stack in your solution as well, since part of the evaluation is based on how you work with the technologies we use in our day-to-day.
 
 ## The app
 
