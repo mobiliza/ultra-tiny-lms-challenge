@@ -30,7 +30,7 @@ In case of ties, the oldest ones come first.
 
 ## Criteria
 
-Since this is a Full-Stack challenge, we will be examinating the logic as well as its design and user experience. We value code clarity.
+Since this is a Full-Stack challenge, we will be examining the logic, design, and user experience. We value code clarity and require that your submission includes unit tests to verify the functionality.
 
 We expect a fully responsive solution and we want to evaluate your styling skills (CSS, styled-components, whatever) so if you're going to use a CSS library, customize it a bit.
 
@@ -40,4 +40,4 @@ After a successful submission we will invite you to a online chat in order to ta
 
 ## Submission
 
-In order to submit this challenge, please create a private repository and share it with us (KZTN, betofigueiredo, tejota and andressafgd). We ask you not to make it public before April 2025. After that you should definitely make it public and add it to your portfolio.
+In order to submit this challenge, please create a private repository and share it with us (KZTN, betofigueiredo, tejota and andressafgd). We ask you not to make it public before July 2025. After that you should definitely make it public and add it to your portfolio.
