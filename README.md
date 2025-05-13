@@ -13,7 +13,7 @@ It consists of a 3 screens flow.. The first is where the user should input their
 
 After submitting, she must answer the next question:
 
-![Diagram containing a username input.](https://github.com/mobiliza/ultra-tiny-lms-challenge/blob/main/assets/question-mockup.jpg?raw=true)
+![Diagram a multiple choice question.](https://github.com/mobiliza/ultra-tiny-lms-challenge/blob/main/assets/question-mockup.jpg?raw=true)
 
 **(Only #expertiseNaGestaoDeProjetos is wrong — the other four are right.)**
 
