@@ -40,4 +40,4 @@ After a successful submission we will invite you to a online chat in order to ta
 
 ## Submission
 
-In order to submit this challenge, please create a private repository and share it with us (KZTN, betofigueiredo, tejota and andressafgd, RodolfoJr3564). We ask you not to make it public before July 2025. After that you should definitely make it public and add it to your portfolio.
+In order to submit this challenge, please create a private repository and share it with us (KZTN, betofigueiredo, tejota, RodolfoJr3564 and andressafgd). We ask you not to make it public before July 2025. After that you should definitely make it public and add it to your portfolio.
